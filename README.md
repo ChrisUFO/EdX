@@ -1,2 +1,0 @@
-# EdX
-EdX Classes
